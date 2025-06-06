@@ -1,5 +1,0 @@
-|P1
-a => c.DATAIN
-c <= a.DB_MAX_OUTPUT_PORT_TYPE
-
-
